@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "nombre": "Capitan America",
+      "precio": "10",
+      "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2014/11/406746-cine-superheroes-critica-capitan-america-primer-vengador.jpg",
+      "id": "1"
+    },
+    {
+      "nombre": "Iron Man",
+      "precio": "15",
+      "imagen": "https://lumiere-a.akamaihd.net/v1/images/ebo_ironman2_sp_da36dda0.jpeg",
+      "id": "2"
+    },
+    {
+      "nombre": "Thor",
+      "precio": "20",
+      "imagen": "https://lumiere-a.akamaihd.net/v1/images/thor_amor_y_trueno_3cc74888.jpeg",
+      "id": "3"
+    },
+    {
+      "nombre": "Black Widow",
+      "precio": "12",
+      "imagen": "https://i0.wp.com/www.tomosygrapas.com/wp-content/uploads/2018/01/4a37af90-daf5-0132-cecc-0e01949ad350.jpg",
+      "id": "5"
+    },
+    {
+      "nombre": "Hawkeye",
+      "precio": "8",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/11/hipertextual-hawkeye-jeremy-renner-estuvo-punto-tener-su-propia-pelicula-ucm-2019405328.jpg",
+      "id": "6"
+    },
+    {
+      "nombre": "Black Panther",
+      "precio": "25",
+      "imagen": "https://as01.epimg.net/epik/imagenes/2020/11/22/portada/1606073319_825432_1606073416_noticia_normal_recorte1.jpg",
+      "id": "7"
+    },
+    {
+      "nombre": "Doctor Strange",
+      "precio": "22",
+      "imagen": "https://www.latercera.com/resizer/zlnkIyVyfurwFTv0r46CqAmKTEw=/arc-anglerfish-arc2-prod-copesa/public/IHQ3WVV5PFGNRDBZZMTHXAYMWA.jpg",
+      "id": "8"
+    },
+    {
+      "nombre": "Spider-Man",
+      "precio": "30",
+      "imagen": "https://i.blogs.es/7bb0f0/captura-de-pantalla-2022-06-03-a-las-10.57.17/840_560.jpeg",
+      "id": "9"
+    }
+  ]
+}
